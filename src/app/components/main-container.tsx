@@ -56,7 +56,7 @@ const Main = () => {
 
     return (
         <div className="main-container">
-            <h1 className="main-heading">Today's <span style={{color : "#F0B90B"}}>Cryptocurrency</span> rates</h1>
+            <h1 className="main-heading">Today&apos;s <span style={{color : "#F0B90B"}}>Cryptocurrency</span> rates</h1>
             <div className="coin-table">
                 <div className="left">
                     <h1>Coin</h1>
